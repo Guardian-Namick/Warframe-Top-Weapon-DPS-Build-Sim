@@ -32,6 +32,7 @@ Somethings to note:
   - With any of these that you find an issue with, such as a weapon you want to sim, a mod, or some other "hey I want this in the tool" please let me know and I can make sure that it is added in, (as well as similar mods/weapons/others)
 
   - I also plan on adding in Arcanes, Incarnin form damage, Sniper zoom damage, and Modular weapon(maybe) as future goals. I also want to make it so you can reselect mods that you have marked as "don't have" individually instead of unmarking them all.
-
+  - Accuracy of lower kill times may be inaccurate due to how the calculations are done where debuffs that would be inflicted AFTER a shot is calculated before the damage. (Should be minor and would require a major change for minor effects to fix I believe)
   - I would also suggest some way of supporting me, but that can be done later.
+
   This is also the first program I've shared with the world, outside of my game Phantom Asteroids (on Android), so I am new to all of the "setting things up so they look nice and make sense" stuff.
