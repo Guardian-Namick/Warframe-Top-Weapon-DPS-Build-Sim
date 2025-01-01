@@ -19,6 +19,12 @@ How To Use:
 
 - Once it has finished simming it will show your top mods on the right-hand side, each as a button. If you press any of these buttons you will mark that mod as "I do not have this" meaning in future sims it will not try and suggest it. If you get any of these mods or are unsure, you can hit the "Restore All Removed Mods" button to restore them.
 
+  <br>
+- You can add in foes of your own into the sim, don't like the choices that are setup by default add the foe and values yourself with the new menu accessed by the "Add Custome Foe" Button.
+  - You can get the values for different foes from the Warframe Wiki.
+  - A foe can not have multiple of the same resistance or weakness including None. If it does, it will not work.
+ <br>
+ 
 - There is also a button to load in weapon data from the API, this is something you shouldn't need to press, however, if I just upload this and you find it useful, but I've abandoned it down the line that can be helpful to get any new weapons that get added. But with my plan of updating this "fairly" often which will include me updating the weapon data in the project, this button will rarely be used.
 
 Somethings to note:
